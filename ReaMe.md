@@ -1,4 +1,5 @@
 # Demo
 
-This is a demo repository
-it is well!
+This is a demo repository.
+
+\nit is well!
