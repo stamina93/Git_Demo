@@ -2,4 +2,4 @@
 
 This is a demo repository.
 
-\nit is well!
+It is well!
